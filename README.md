@@ -1,7 +1,5 @@
 # CSS-border-animation
 
-# Animated Gradient Border
-
 A card with a rotating conic-gradient border using CSS.
 
 ## Notes
